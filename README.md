@@ -7,14 +7,14 @@ This project consists of a Python backend (`backend/`), a frontend application (
 
 ## Folder Structure
 
-'''
+```
 Task/
-├── backend/ # Python backend code
-│ ├── app.py # Main backend application
+├── backend/            # Python backend code
+│   ├── app.py          # Main backend application
 │
-├── frontend/ # Frontend application
-│ ├── package.json # Node.js project file
-│ └── src/ # Frontend source code
+├── frontend/           # Frontend application
+│   ├── package.json    # Node.js project file
+│   └── src/            # Frontend source code
 │
-└── venv_task/ # Python virtual environment (ignored in git)
-'''
+└── venv_task/          # Python virtual environment (ignored in git)
+```
