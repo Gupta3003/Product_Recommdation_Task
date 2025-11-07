@@ -1,0 +1,21 @@
+# Ignore the virtual environment folder
+venv_task/
+*.env
+
+# Ignore the .env file inside frontend folder
+/frontend/.env
+
+# Optional: Node modules if frontend uses Node.js
+frontend/node_modules/
+
+# Optional: Python cache files
+__pycache__/
+*.pyc
+
+# Optional: OS generated files
+.DS_Store
+Thumbs.db
+
+
+
+

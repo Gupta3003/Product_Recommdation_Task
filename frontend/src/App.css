@@ -1,0 +1,58 @@
+.app {
+  font-family: "Poppins", sans-serif;
+  max-width: 700px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 15px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  resize: none;
+}
+
+button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:disabled {
+  background: #888;
+}
+
+.highlight-box {
+  margin: 20px 0;
+  padding: 15px;
+  border-radius: 10px;
+  background: #fff3cd;
+  border: 1px solid #ffeeba;
+  font-size: 18px;
+}
+
+.highlight-box a {
+  color: #856404;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.highlight-box a:hover {
+  text-decoration: underline;
+}
+
+.answer-box {
+  margin-top: 20px;
+  background: #f1f1f1;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: left;
+}
